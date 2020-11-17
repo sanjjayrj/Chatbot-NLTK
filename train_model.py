@@ -2,7 +2,6 @@ import pandas as pd
 import nltk
 import re
 from nltk.stem import wordnet
-from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk import pos_tag
 from nltk import word_tokenize
 from datetime import datetime
