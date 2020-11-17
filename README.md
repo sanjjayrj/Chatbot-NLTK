@@ -6,6 +6,7 @@
 3. **Packages Used**
 4. **Steps Involved**
 5. **Working**
+6. **Demo-Screenshot**
 ---
 ## Introduction
 ---
@@ -98,7 +99,9 @@ Then input from the user is also lemmatized & hash vectorized. We then find the 
 And then we can get an index number to find the location of the reply in the dataframe using the argmax() function of cosine similarity.
 `index = cos.argmax()`
 Finally we can return the reply, `return(data.iloc[index]["Replies"])`
-
-## Reference
+## **Demo**
 ---
+Chatbot Conversation via terminal
+![demo](https://user-images.githubusercontent.com/40771653/99419858-93c94480-2922-11eb-802b-e0c0a3eac877.png)
+### Reference
 For extracting dataset(Deatiled Explanation): [Sentdex youtube playlist](https://www.youtube.com/watch?v=dvOnYLDg8_Y&list=PLQVvvaa0QuDdc2k5dwtDTyT9aCja0on8j)
