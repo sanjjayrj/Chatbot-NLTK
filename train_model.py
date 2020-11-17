@@ -1,17 +1,12 @@
 import pandas as pd
 import nltk
 import re
-import pickle
 from nltk.stem import wordnet
-from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk import pos_tag
-from sklearn.metrics import pairwise_distances
 from nltk import word_tokenize
-from nltk.corpus import stopwords
 from datetime import datetime
 
-tfdif = TfidfVectorizer()
 data = pd.read_csv('traindata.csv', encoding='utf-8')
 train_counter = 0
 
