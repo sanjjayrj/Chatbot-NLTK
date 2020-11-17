@@ -1,11 +1,11 @@
 # **NLTK based Chatbot**
 ## **Table of Contents**
 ---
-1. **[Introduction](https://github.com/sanjjayrj/Chatbot-NLTK/new/master?readme=1#introduction)**
-2. **[Dataset Description](https://github.com/sanjjayrj/Chatbot-NLTK/new/master?readme=1#dataset-description)**
-3. **[Packages Used](https://github.com/sanjjayrj/Chatbot-NLTK/new/master?readme=1#packages-used)**
-4. **[Steps Involved](https://github.com/sanjjayrj/Chatbot-NLTK/new/master?readme=1#steps-involved)**
-5. **[Working](https://github.com/sanjjayrj/Chatbot-NLTK/new/master?readme=1#working)**
+1. **Introduction**
+2. **Dataset Description**
+3. **Packages Used**
+4. **Steps Involved**
+5. **Working**
 ---
 ## Introduction
 ---
