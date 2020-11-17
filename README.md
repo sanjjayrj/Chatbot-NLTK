@@ -47,7 +47,7 @@ The dataset has a lot of NSFW stuff so to filter those comments, if needed you c
 > Numpy<br>
 > nltk (word_tokenize, pos_tag)<br>
 > nltk.stem (wordnet)<br>
-> sklearn.feature_extraction.text(TfidfVectorizer, TfidfTransformer, HashingVectorizer)<br>
+> sklearn.feature_extraction.text(TfidfTransformer, HashingVectorizer)<br>
 > sqlite3<br>
 > json<br>
 > re<br>**
